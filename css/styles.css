@@ -1,0 +1,42 @@
+
+
+.navbar {
+    background-color: wheat;
+    font-size: 15px;
+    font-family: Verdana;
+}
+
+.quem-somos {
+    background-color: seagreen;
+    color: cornsilk;
+    font-style: oblique;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros- {
+    background-color: cornsilk;
+    font-style: oblique;
+    color:seagreen;
+}
+
+.servicos- {
+    font-size: 20px;
+    color: seagreen;
+    font-style: oblique;
+}
+
+h3 {
+    color: black;
+    font-family: monospace;
+    font-stretch: expanded;
+}
+
+.bgfooter {
+    background-color: gray;
+    font-size: 20px;
+    color:black;
+}
